@@ -1,4 +1,4 @@
----
+sh /sdcard/Android/data/com.k2tap.master/files/exe/activate.sh
 home: true
 heroImage: /logo.png
 actionText: Learn more
